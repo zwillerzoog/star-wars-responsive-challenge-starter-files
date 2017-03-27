@@ -24,7 +24,7 @@ h2 {
 
 .col-4 { 
 	text-align: center;
-	padding-bottom: 100px;
+	/*padding-bottom: 100px;*/
 }
 
 img {
@@ -32,10 +32,6 @@ img {
 }
 
 .card {
-	border: 1px solid lightgrey;
-	padding: 0px;
-}
-col-4 {
 	border: 1px solid lightgrey;
 }
 
